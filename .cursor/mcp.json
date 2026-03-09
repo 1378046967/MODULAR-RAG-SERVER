@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "modular-rag-mcp-server": {
+      "command": "/root/project/MODULAR-RAG-MCP-SERVER/.venv/bin/python",
+      "args": ["-m", "src.mcp_server.server"],
+      "env": {}
+    }
+  }
+}
